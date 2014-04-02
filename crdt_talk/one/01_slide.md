@@ -1,9 +1,10 @@
 !SLIDE 
-# My Presentation #
+# CRDTs and LVars #
 
 !SLIDE bullets incremental
-# Bullet Points #
+# The CAP theorem #
 
-* first point
-* second point
-* third point
+* Consistent
+* Available
+* Partition-tolerant
+* (pick two)
