@@ -72,4 +72,4 @@ The following are equivalent:
 
 * LVars: determinism
 * CRDTs: availability
-* Can be unified
+* But can be unified
