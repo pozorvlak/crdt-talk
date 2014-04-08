@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="12cm" height="9cm" viewBox="118 45 228 170" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="60">
+    <tspan x="220" y="60">⊤</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="118" y="150">
+    <tspan x="118" y="150">0,⊥</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="158" y="150">
+    <tspan x="158" y="150">1,⊥</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="198" y="150">
+    <tspan x="198" y="150">...</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="238" y="150">
+    <tspan x="238" y="150">⊥,0</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="278" y="150">
+    <tspan x="278" y="150">⊥,1</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="218" y="210">
+    <tspan x="218" y="210">⊥</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="218" y1="200" x2="128" y2="154"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="220" y1="200" x2="168" y2="154"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="222" y1="200" x2="202" y2="152"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="228" y1="200" x2="322" y2="154"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="130" y1="88" x2="220" y2="60"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="170" y1="88" x2="222" y2="60"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="204" y1="88" x2="224" y2="60"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="252" y1="88" x2="226" y2="60"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="218" y1="210" x2="218" y2="210"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="318" y="150">
+    <tspan x="318" y="150">...</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="224" y1="200" x2="250" y2="152"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="226" y1="200" x2="290" y2="152"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="292" y1="88" x2="228" y2="60"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="324" y1="88" x2="230" y2="60"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="118" y="100">
+    <tspan x="118" y="100">0,0</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="158" y="100">
+    <tspan x="158" y="100">1,0</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="198" y="100">
+    <tspan x="198" y="100">...</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="238" y="100">
+    <tspan x="238" y="100">1,0</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="278" y="100">
+    <tspan x="278" y="100">1,1</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="318" y="100">
+    <tspan x="318" y="100">...</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="130" y1="140" x2="130" y2="102"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="250" y1="140" x2="130" y2="102"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="170" y1="140" x2="170" y2="102"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="170" y1="140" x2="250" y2="102"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="170" y1="140" x2="290" y2="102"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="250" y1="140" x2="170" y2="102"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="290" y1="140" x2="290" y2="102"/>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-dasharray: 4; stroke: #000000" d="M 326.103,113.458 A 176.437,176.437 0 0 0 186.429,189.046"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="176" y1="206" x2="177.9" y2="202.48"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="179.167" y1="200.134" x2="181.067" y2="196.614"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="182.334" y1="194.267" x2="184.235" y2="190.748"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="346" y1="114" x2="342.014" y2="113.666"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="339.357" y1="113.443" x2="335.371" y2="113.109"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke: #000000" x1="332.713" y1="112.886" x2="328.727" y2="112.551"/>
+  </g>
+</svg>
