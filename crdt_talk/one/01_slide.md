@@ -14,13 +14,7 @@
 
 * Every write eventually reflected at every node
 * Can remain available
-
-!SLIDE
-# Hard to achieve
-
-```
-2381 acknowledged writes lost! (╯°□°）╯︵ ┻━┻
-```
+* Hard to achieve
 
 !SLIDE
 # CRDTs
@@ -33,6 +27,9 @@
 
 * poset (S, ≤)
 * *join* operation ∨ : S × S → S
+
+!SLIDE
+# Examples
 
 !SLIDE
 # State-based CRDTs
@@ -65,4 +62,14 @@ The following are equivalent:
 * Bandwidth
 
 !SLIDE
+# LVars
 
+!SLIDE
+# Examples
+
+!SLIDE bullets incremental
+# Differences
+
+* LVars: determinism
+* CRDTs: availability
+* Can be unified
