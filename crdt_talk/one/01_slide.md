@@ -19,11 +19,7 @@
 # Hard to achieve
 
 ```
-6000 total
-5700 acknowledged
-3319 survivors
 2381 acknowledged writes lost! (╯°□°）╯︵ ┻━┻
-469 474 479 484 489 494 ... 3166 3168 3171 3173 3178 3183
 ```
 
 !SLIDE
@@ -67,3 +63,6 @@ The following are equivalent:
 
 * Expressing your data in semilattices
 * Bandwidth
+
+!SLIDE
+
